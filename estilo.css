@@ -1,0 +1,48 @@
+HEADER{
+    background: rgb(255, 0, 0);
+    height: 200PX;
+    width: 100%;
+    text-align: center;
+    line-height: 200PX;
+    float: inline-start;
+}
+NAV{
+    background: rgb(255, 0, 234);
+    height: 100PX;
+    text-align: center;
+    line-height: 100PX;
+    width: 100%;
+    float: left;
+}
+#section{
+    background: rgb(136, 255, 0);
+    height: 200PX;
+    width: 50%;
+    text-align: center;
+    line-height: 200PX;
+    float: left;
+}
+#perro{
+    background: rgb(255, 230, 0);
+    height: 200PX;
+    width: 50%;
+    text-align: center;
+    line-height: 200PX;
+    float: left;
+}
+#gato{
+    background: rgb(253, 161, 23);
+    height: 100PX;
+    width: 100%;
+    text-align: center;
+    line-height: 100PX;
+    float: left;
+}
+FOOTER{
+    background: rgb(0, 26, 255);
+    height: 200PX;
+    width: 100%;
+    text-align: center;
+    line-height: 200PX;
+    float: inline-end;
+}
